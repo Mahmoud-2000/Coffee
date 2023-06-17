@@ -32,12 +32,12 @@ a {
 .header nav h1 {
   float: left;
   padding: 20px;
+  margin-bottom: 0;
 }
 
 .header nav ul {
   float: right;
   list-style-type: none;
-  margin-bottom: 0;
 }
 
 .header nav ul li {
